@@ -1,0 +1,36 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "title": "Samsung M42",
+      "color": "red",
+      "category": "mobile",
+      "price": 21293,
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-a235flbtins/gallery/in-galaxy-a23-sm-a235-417874-sm-a235flbtins-531577405?$650_519_PNG$"
+    },
+    {
+      "id": 2,
+      "title": "Iphone 14",
+      "color": "black",
+      "category": "mobile",
+      "price": 211293,
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone14pro-202209_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=1663611329204"
+    },
+    {
+      "id": 3,
+      "title": "Oppo k20",
+      "color": "red",
+      "category": "mobile",
+      "price": 11293,
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202205/26/siwzk8lPjtX8oR4P.png"
+    },
+    {
+      "id": 4,
+      "title": "Redmi 9",
+      "color": "white",
+      "category": "mobile",
+      "price": 10293,
+      "image": "https://i.gadgets360cdn.com/products/large/redmi-note-12-pro-db-709x800-1671184787.jpg?downsize=*:360"
+    }
+  ]
+}
